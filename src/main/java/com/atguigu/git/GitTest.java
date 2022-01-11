@@ -1,0 +1,11 @@
+package com.atguigu.git;
+
+/**
+ * @author Li Runle
+ * @date 2022/1/11 - 21:59
+ */
+public class GitTest {
+    public static void main(String[] args) {
+        System.out.println("hello,git");
+    }
+}
